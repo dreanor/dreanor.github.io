@@ -1,5 +1,6 @@
-##Personal
+#Project Downloads
 
+##Personal
 | Project | Downloads | 
 | ------------- |:-------------:|
 | [StreamCompanion](https://github.com/dreanor/StreamCompanion/releases/latest) | ![](https://img.shields.io/github/downloads/dreanor/StreamCompanion/latest/total.svg)|
